@@ -1,0 +1,15 @@
+rouge
+rouge_score
+evaluate
+wandb
+datasets==2.15.0
+transformers
+accelerate
+huggingface_hub
+transformers
+matplotlib
+pandas
+numpy
+torch
+tqdm
+nltk
